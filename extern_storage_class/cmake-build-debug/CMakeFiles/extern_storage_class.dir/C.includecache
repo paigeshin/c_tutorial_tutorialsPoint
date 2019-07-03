@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/grosso/Desktop/programming_source/c_tutorial/extern_storage_class/main.c
+stdio.h
+-
+
+/Users/grosso/Desktop/programming_source/c_tutorial/extern_storage_class/support.c
+stdio.h
+-
+

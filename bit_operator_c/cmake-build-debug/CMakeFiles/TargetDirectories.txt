@@ -1,0 +1,3 @@
+/Users/grosso/Desktop/programming_source/c_tutorial/bit_operator_c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/grosso/Desktop/programming_source/c_tutorial/bit_operator_c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/grosso/Desktop/programming_source/c_tutorial/bit_operator_c/cmake-build-debug/CMakeFiles/bit_operator_c.dir
